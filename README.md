@@ -1,5 +1,5 @@
 # BT6270-Computational-Neuroscience
-Assignments from CS5691: Computational Neuroscience (July-November 2022 Semester)
+Assignments from BT6270: Computational Neuroscience (July-November 2022 Semester)
 
 This repository contains all assignments related to the course BT6270 (Computational Neuroscience).
 
